@@ -101,4 +101,4 @@ def GetGameDayData(month, day, year):
         print(str(month)+'-'+str(day)+'-'+str(year)+':', 'No Games To Upload')
 
 
-GetGameDayData(7,14,2018)
+GetGameDayData(7,15,2018)
